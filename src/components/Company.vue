@@ -86,7 +86,7 @@
                     p {
                         margin: 0;
                         font-size: 16px;
-                        font-weight: 700;
+                        font-weight: 600;
                         line-height: 100%;
                     }
                 }
