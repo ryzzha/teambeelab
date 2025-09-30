@@ -174,7 +174,7 @@
                 text-align: center;     
                 padding: 100px 0px;
                 .greeting {
-                    width: 35%;
+                    width: 41%;
                     h2 {
                         font-size: 77px;
                         font-weight: 700;
