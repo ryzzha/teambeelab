@@ -176,13 +176,13 @@
                 .greeting {
                     width: 35%;
                     h2 {
-                        font-size: 72px;
+                        font-size: 77px;
                         font-weight: 700;
-                        line-height: 72px;
+                        line-height: 77px;
                         span {
-                            font-size: 72px;
+                            font-size: 77px;
                             font-weight: 700;
-                            line-height: 72px;
+                            line-height: 77px;
                         }
                     }
                     p {
