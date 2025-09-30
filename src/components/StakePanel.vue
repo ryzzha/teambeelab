@@ -221,7 +221,7 @@ onMounted(() => {
                     justify-content: space-between;
                     align-items: center;
                     padding: 30px 20px;
-                    font-size: 15px;
+                    font-size: 14px;
                     font-weight: 400;
                     line-height: 100%;
                     letter-spacing: 0;
@@ -248,7 +248,7 @@ onMounted(() => {
                         width: max-content;
                         border-radius: 8px;
                         font-size: 16px;
-                        font-weight: 700;
+                        font-weight: 600;
                         line-height: 100%;
                         letter-spacing: 0;
                         display: flex;

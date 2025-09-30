@@ -66,7 +66,7 @@
                 display: flex;
                 justify-content: space-between;
                 align-items: center;
-                gap: 30px;
+                gap: 20px;
                 .balance {
                     width: 152px;
                     display: flex;
@@ -78,14 +78,14 @@
                     background-color: #FAFAFA;
                     border-radius: 200px;
                     span {
-                        font-size: 16px;
+                        font-size: 14px;
                         font-weight: 300;
                         line-height: 100%;
                         color: #333333;
                     }
                     p {
                         margin: 0;
-                        font-size: 18px;
+                        font-size: 16px;
                         font-weight: 700;
                         line-height: 100%;
                     }
@@ -157,7 +157,7 @@
             background-image: url('./images/bg.png');
             height: 100vh; 
             width: 100%;
-            padding: 0 300px; 
+            padding: 0 200px; 
             header {
                 margin-top: 24px;
                 .logo {
@@ -176,9 +176,9 @@
                 .greeting {
                     width: 35%;
                     h2 {
-                        font-size: 83px;
+                        font-size: 72px;
                         font-weight: 700;
-                        line-height: 83px;
+                        line-height: 72px;
                         span {
                             font-size: 72px;
                             font-weight: 700;
@@ -201,7 +201,6 @@
                 .company-ava {
                     size: 400px 400px;
                     position: relative;
-                    transform: scale(1.2);
                     .cat {
                         width: 100%; 
                     }
